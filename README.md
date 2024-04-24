@@ -1,8 +1,8 @@
-# Android Project 4 - Flixsterpart2
+# Android Project 4 - Flixster+part2
 
 Submitted by: Antony Crump
 
-Flixersterpart2 is a movie browsing app that allows users to browse ... [TODO] 
+Flixerster+part2 is a movie browsing app that allows users to browse ... [TODO] 
 
 Time spent: 5 hours spent in total
 
